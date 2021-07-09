@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+m/TljMo2w4incRJVcRdl2XJj1TjWRGr6C316YDLVPZznGfop8LMrUcdpM4YHUWZCySNmfnrTfZUcbD+Slryw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Studia WSEI\\Wprowadzenie do Programowania\\zajęcia\\projekt\\ObjectOrientedProgramingProject\\ObjectOrientedProgramingProject\\ObjectOrientedProgramingProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.net.test.sdk\\15.3.0\\microsoft.net.test.sdk.15.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.testplatform.testhost\\15.3.0\\microsoft.testplatform.testhost.15.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xunit\\2.3.1\\xunit.2.3.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xunit.abstractions\\2.0.1\\xunit.abstractions.2.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xunit.analyzers\\0.7.0\\xunit.analyzers.0.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xunit.assert\\2.3.1\\xunit.assert.2.3.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xunit.core\\2.3.1\\xunit.core.2.3.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xunit.extensibility.core\\2.3.1\\xunit.extensibility.core.2.3.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xunit.extensibility.execution\\2.3.1\\xunit.extensibility.execution.2.3.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xunit.runner.visualstudio\\2.3.1\\xunit.runner.visualstudio.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
